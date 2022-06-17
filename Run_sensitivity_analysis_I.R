@@ -7,7 +7,7 @@
 # skin absorbance to shortwave radiation, preferred temperature, thermoregulatory ability, 
 # and critical thermal limits (CTmax and CTmin)
 
-setwd("C:/Users/juanv/Dropbox/Marie Curie/Virtual diversity/Manuscript/uploaded database and code")
+setwd("") # set working directory
 
 load("Sources/xy.values.RData") # List of cells and lon/lat values
 load("Sources/cells.RData")
