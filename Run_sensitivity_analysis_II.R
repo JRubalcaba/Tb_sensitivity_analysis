@@ -2,7 +2,7 @@
 # R code from: "Predicting functional trait variation across climatic gradients in ectotherms"
 # Juan G. Rubalcaba, Sidney F. Gouveia, Fabricio Villalobos, Miguel Á. Olalla-Tárraga, Jennifer Sunday.
 
-# This code generates uses the dataframe generated in Code 1 to compute the sensitivity of thermal performance 
+# This code uses the dataframe generated in Code 1 to compute the sensitivity of thermal performance 
 # to variations in body mass,skin absorbance to shortwave radiation, preferred temperature, thermoregulatory ability, 
 # and critical thermal limits (CTmax and CTmin).
 
