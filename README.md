@@ -1,6 +1,6 @@
 R Code of the manuscript 
 
-"Predicting functional trait variation across climatic gradients in ectotherms" by
+"Climate drives global functional trait variation in lizards" by
 
 Juan G. Rubalcaba, Sidney F. Gouveia, Fabricio Villalobos, Miguel Á. Olalla-Tárraga, Jennifer Sunday
 
